@@ -1,2 +1,2 @@
 # hello-world
-first python program 
+first java program 
